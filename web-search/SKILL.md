@@ -1,6 +1,6 @@
 ---
 name: web-search
-description: Search the public web through Exa's hosted MCP endpoint without an API key. Use this whenever the user needs discovery rather than direct retrieval: finding relevant documentation, recent announcements, product pages, blog posts, comparisons, or current external context. Prefer this skill when the user does not already have a specific URL, or when you should first identify the best sources before using web-fetch on one of them.
+description: "Search the public web through Exa's hosted MCP endpoint without an API key. Use this whenever the user needs discovery rather than direct retrieval: finding relevant documentation, recent announcements, product pages, blog posts, comparisons, or current external context. Prefer this skill when the user does not already have a specific URL, or when you should first identify the best sources before using web-fetch on one of them."
 compatibility: opencode
 metadata:
   transport: exa-mcp
